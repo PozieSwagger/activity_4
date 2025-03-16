@@ -2,7 +2,7 @@
 This incorporats both of Activity 4 - Research Compendium Part 1 and Assignment (AE#3). 
 
 # Content
-<img src = "https://github.com/PozieSwagger/activity_4/Network.png" width = "640" height = "480">
+<img src = "https://github.com/PozieSwagger/activity_4/blob/main/Network.png" width = "640" height = "480">
 This is compendium using the data from Assignment AE#3 noble prize winners and works to create a network analyize focusing on the motivation. Through the help of different stack overflow forms and Text Mining Infopros Chapter 5. 
 
 # Licenses / Citations
