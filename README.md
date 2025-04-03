@@ -16,6 +16,5 @@ Future work and use of R and related software using it would most likely happen,
 My choice of Network analysis was because of desiring to see the connecting, even if the graph was messy, of what each person if to each other. Networking is interesting to understand as we as a civilization is connected even if considered to have never met. This understanding of a global connect could relate to that of noble prize winner and what motivate those to win, or see what outlier in the data. 
 
 # Licenses / Citations
-[![DOI](https://zenodo.org/badge/296730353.svg)](https://zenodo.org/badge/latestdoi/296730353) Lamba, Manika, & Madhusudhan, Margam. (2021). Network Text Analysis of Documents using Two Different R Packages (Version 1.2). https://doi.org/10.5281/zenodo.5203302
 
 **Figures**, **Code**, **Data:** MIT License
