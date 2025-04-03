@@ -17,4 +17,6 @@ My choice of Network analysis was because of desiring to see the connecting, eve
 
 # Licenses / Citations
 
+Citation: [![DOI](https://zenodo.org/badge/949647465.svg)](https://doi.org/10.5281/zenodo.15128367) 
+
 **Figures**, **Code**, **Data:** MIT License
